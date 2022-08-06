@@ -1,7 +1,6 @@
 {
-  "name": "using-pre-built-react-components-completed",
+  "name": "exit",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -26,5 +25,16 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheeraj557/KeepApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheeraj557/KeepApp/issues"
+  },
+  "homepage": "https://github.com/dheeraj557/KeepApp#readme",
+  "description": ""
 }
